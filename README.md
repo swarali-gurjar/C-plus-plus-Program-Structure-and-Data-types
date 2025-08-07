@@ -1,4 +1,8 @@
-**Description**
+## Aim: 
+
+To study and implement the program structure and data types in C++
+
+## Theory:
 
 This simple C++ console program demonstrates the use of basic data types by allowing the user to input values of different types. It then gives the output of the entered values along with the memory size (in bytes) occupied by each variable.
 # C++ Data Types Overview
@@ -24,7 +28,7 @@ This simple C++ console program demonstrates the use of basic data types by allo
 | wchar_t             | 2 or 4 bytes  | 1 wide character                                        |
 ---
 
-**Conclusion**
+## Conclusion:
 
 Choosing the appropriate storage class is essential for effective memory management, controlling the lifespan and visibility of variables, and ensuring the program runs as intended. Whether it's improving performance with register, preserving variable values using static, or enabling cross-file data access with extern, each storage class plays a unique and important role in writing efficient and maintainable C++ code.
 
